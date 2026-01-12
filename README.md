@@ -1,6 +1,3 @@
-[![Build Status](https://travis-ci.org/edonosotti/php-functional-tests-sample-app.svg?branch=master)](https://travis-ci.org/edonosotti/php-functional-tests-sample-app)
-[![Maintainability](https://api.codeclimate.com/v1/badges/76396160edb04cd6aefa/maintainability)](https://codeclimate.com/github/edonosotti/php-functional-tests-sample-app/maintainability)
-
 # Using PHP Built-in Server to run automated testing
 
 ## Description
